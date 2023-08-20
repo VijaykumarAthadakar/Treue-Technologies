@@ -1,0 +1,24 @@
+body{
+    font-family: Arial,  sans-serif;
+     padding-top: 100px;
+
+}
+
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.button{
+    left: 150px;
+    height: 30px;
+    width: 100px;
+    color: azure;
+    background-color: blueviolet;
+    border-radius: 5px;
+    
+}
